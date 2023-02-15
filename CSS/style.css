@@ -4,6 +4,7 @@ body {
     width: 90%;
     margin: 0 auto;
     text-align: center;
+    font-size: large;
 }
 
 body {
@@ -28,11 +29,14 @@ header {
 
 h1 {
     margin-bottom: 0.1em;
+    color: black;
 }
 
 #top p {
+    font-weight: bolder;
     margin-top: 0.1em;
     padding-bottom: 10px;
+    color: rgb(25, 25, 25);
 }
 
 nav a,
