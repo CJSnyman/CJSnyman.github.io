@@ -41,10 +41,19 @@ li {
     margin-right: 2em;
 }
 
-/* #article_1,
-#article_2,
-#article_3 {
-    float: left;
-    width: 31.3%;
-    margin: 1%;
+#content {
+    width: 60%;
+    margin-left: 20%;
+}
+
+table {
+    margin: 0 auto;
+}
+
+h4 {
+    color: blueviolet;
+}
+
+h3 {
+    color: crimson;
 }
