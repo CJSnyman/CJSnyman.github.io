@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(150, 150, 150);
+    color: white;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+body {
+    margin-bottom: 5%;
+}
+
+#navigate,
+#footer {
+    margin: 1%;
+}
+
+#content {
+    overflow: auto;
+}
+
+header {
+    text-align: center;
+    font-size: xx-large;
+    background-color: grey;
+    margin: 1%;
+}
+
+h1 {
+    margin-bottom: 0.1em;
+}
+
+#top p {
+    margin-top: 0.1em;
+    padding-bottom: 10px;
+}
+
+nav a,
+li {
+    display: inline;
+    margin-right: 2em;
+}
+
+#article_1,
+#article_2,
+#article_3 {
+    float: left;
+    width: 31.3%;
+    margin: 1%;
+}
+
+table {margin: 0 auto;}
