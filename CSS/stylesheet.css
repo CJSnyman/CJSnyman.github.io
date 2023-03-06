@@ -1,0 +1,104 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+}
+
+.wrapper {
+    width: 90%;
+    min-width: 250px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: normal;
+    flex-wrap: wrap;
+}
+
+header img{
+    float: left;
+    margin: 10px auto;
+}
+
+nav {
+    padding: 1em;
+    background-color: darkslategray;
+}
+
+a {
+    color: lime;
+    font-weight: bolder;
+}
+
+nav a {
+    margin: 10px 20px;
+}
+
+#current {
+    color: black;
+}
+
+section {
+    margin: 10px auto;
+    padding: 10px;
+    background-color: rgb(70, 70, 70);
+    display: flex;
+    justify-content: center;
+    align-items: normal;
+    flex-wrap: wrap;
+}
+
+#subhead {
+    font-weight: bold;
+    position: relative;
+    bottom: -10px;
+    background-color: rgb(70, 70, 70);
+    margin: 0;
+    padding-top: 15px;
+}
+
+li {
+    display: inline-block;
+    margin: 0 4%;
+}
+
+article {
+    background-color: rgb(80, 80, 80);
+    float: left;
+    width: 31.3%;
+    min-width: 250px;
+    margin: 1%;
+}
+
+article h4 {
+    color: rgb(177, 168, 255);
+}
+
+article h3, #subhead {
+    color: rgb(122, 107, 255);
+}
+
+article p {
+    padding: 1em;
+}
+
+table {
+    margin: 10px auto;
+}
+
+th, td {
+    padding: 5px;
+}
+
+footer {
+    padding: 1em;
+    background-color: darkslategray;
+    clear: both;
+}
